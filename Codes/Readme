@@ -1,1 +1,3 @@
-Contains codes
+Contains codes for the report.
+Simulation results can be generate by running R file for each prior independently. 
+Real Data results can be generated using application.R. 
